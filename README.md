@@ -102,6 +102,8 @@ This repository serves as a hands-on guide to mastering data visualization with 
 - YouTube: [@kashifalam](https://www.youtube.com/@electroboticsai)
 
 - Instagram: [@kashifalam0407](https://instagram.com/kashifalam0407)
+  
+- LinkedIn: [@MdKashifAlam](https://www.linkedin.com/in/md-kashif-alam-a55b19380/)
 
 ---
 
